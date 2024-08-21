@@ -8,5 +8,7 @@ public class Merhaba {
         System.out.println("Merhaba 2");
 
         System.out.println("Task 1 kodları");
+
+        System.out.println("Task 2 kodları");
     }
 }
